@@ -8,3 +8,4 @@ cheetah
 kitty
 hello
 furry
+Super
